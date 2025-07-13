@@ -12,9 +12,9 @@ Windows 11 with a 64-bit operating system and x64-based processor
 A Python version of 3.8 was used. All codes are developed using standard library packages listed below:
 
 Pandas 1.3.4 <br/>
-Numpy 1.22.4
-Scipy 1.7.2
-Scikit-learn 1.0.1
-Shap 0.44.1
-Opentrons 8.0.0
-Scikit-optimize 0.10.1 
+Numpy 1.22.4 <br/>
+Scipy 1.7.2 <br/>
+Scikit-learn 1.0.1 <br/>
+Shap 0.44.1 <br/>
+Opentrons 8.0.0 <br/>
+Scikit-optimize 0.10.1 <br/>
