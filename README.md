@@ -11,7 +11,7 @@ Windows 11 with a 64-bit operating system and x64-based processor
 ## Python
 A Python version of 3.8 was used. All codes are developed using standard library packages listed below:
 
-Pandas 1.3.4
+Pandas 1.3.4 <br/>
 Numpy 1.22.4
 Scipy 1.7.2
 Scikit-learn 1.0.1
